@@ -8,10 +8,10 @@
   "packageVersion": "1.0.0",
   "description": "lua, version 0.1.0!",
   "dependencies": [],
-  "modFiles": [
+  "modFiles": [],
+  "libraryFiles": [
     "liblua.so"
   ],
-  "libraryFiles": [],
   "fileCopies": [],
   "copyExtensions": []
 }
