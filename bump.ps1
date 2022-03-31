@@ -1,0 +1,1 @@
+qpm-rust package edit --version $args[0]
