@@ -5,7 +5,7 @@
     "name": "lua",
     "id": "lua",
     "version": "5.4.4",
-    "url": "https://github.com/MillzyDev/NDK-lua/blob/main/qpm.json",
+    "url": "https://github.com/MillzyDev/NDK-lua",
     "additionalData": {
       "overrideSoName": "liblua.so"
     }
