@@ -1,0 +1,17 @@
+{
+  "_QPVersion": "0.1.2",
+  "name": "lua",
+  "id": "lua",
+  "author": "The Lua Team",
+  "version": "0.1.0",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.0.0",
+  "description": "lua, version 0.1.0!",
+  "dependencies": [],
+  "modFiles": [
+    "liblua.so"
+  ],
+  "libraryFiles": [],
+  "fileCopies": [],
+  "copyExtensions": []
+}
