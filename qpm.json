@@ -7,7 +7,10 @@
     "version": "5.4.4",
     "url": "https://github.com/MillzyDev/NDK-lua",
     "additionalData": {
-      "overrideSoName": "liblua.so"
+      "soLink": "https://github.com/MillzyDev/NDK-lua/releases/download/v5.4.4/liblua.so",
+      "overrideSoName": "liblua.so",
+      "modLink": "https://github.com/MillzyDev/NDK-lua/releases/download/v5.4.4/lua.qmod",
+      "branchName": "version-v5.4.4"
     }
   },
   "dependencies": [],
